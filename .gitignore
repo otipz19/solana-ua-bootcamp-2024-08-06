@@ -5,6 +5,10 @@
 /tmp
 /out-tsc
 /bazel-out
+/target
+/debug
+/practice-2/solana-training/target
+/practice-2/create-metadata/target
 
 # Node
 /node_modules
