@@ -9,6 +9,7 @@
 /debug
 /practice-2/solana-training/target
 /practice-2/create-metadata/target
+node_modules/
 
 # Node
 /node_modules
